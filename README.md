@@ -7,6 +7,7 @@ Como no podía ser de otra manera, los he ido subiendo a este repositorio de Git
 
 ### Contenido
 
-- smile.py: Sonríe con Python
+- smile.py: Sonríe con Python.
+
 A partir de lo aprendido en un MOOC online de Tokyo Tech impartido por el profesor Osamu Watanabe (Introduction to Computer Science and Programming), donde explicaba un ejemplo de computación en el cual creaba una simple animación por consola empleando un script de Ruby, decidí adaptarlo a Python, pero cambiando el formato de los datos. El programa del profesor Watanabe utilizaba int para crear la animación. En mi versión utilizo strings para llegar al mismo resultado.
 
